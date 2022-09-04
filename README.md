@@ -1,4 +1,7 @@
-# t
+# Reuseable multiselect checkbox component utilizing Vue3's Composition Api
+
+## Check out the accompanying article on Medium
+https://codesandbox.io/s/vue-3-checkbox-article-multiple-checkboxes-312vm
 
 ## Project setup
 ```
